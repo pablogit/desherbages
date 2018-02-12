@@ -15,9 +15,9 @@ published: true
 
 > Un trio d’agitateurs, sagaces curieux, et professionnels engagés. Des bibliothécaires – documentalistes – web éditeur actifs stratégiquement dans la sphère digitale, qui s’interrogent et innovent au sein de leurs pratiques métiers.
 
-- Mathilde Panes
-- Camille Besse
-- Pablo Iriarte
+- **Mathilde Panes** ([@railyards](https://twitter.com/railyards))
+- **Camille Besse** ([@besseca](https://twitter.com/besseca))
+- **Pablo Iriarte** ([@pablog_ch](https://twitter.com/pablog_ch))
 
 ### “Désherbages“ et moi ?
 
