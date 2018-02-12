@@ -21,7 +21,11 @@ published: true
 
 ### “Désherbages“ et moi ?
 
-Vous êtes vous-même un professionnel de la documentation ? Vous aimeriez débattre, faire entendre votre opinion ? Vous êtes conscients des enjeux amenés par une société accélérée et hyper connectée. Vos tâches quotidiennes sont complexes et ne figurent pas au programme académique. Vous avez envie de faire entendre votre voix ? Vous aimez écrire – partager votre savoir ? … STOP ! Si votre intérêt est titillé, et le goût de l’aventure flirte avec vos papilles, écrivez-nous. Nous recrutons. 
+Vous êtes vous-même un professionnel de la documentation ? Vous aimeriez débattre, faire entendre votre opinion ? Vous êtes conscients des enjeux amenés par une société accélérée et hyper connectée. Vos tâches quotidiennes sont complexes et ne figurent pas au programme académique. Vous avez envie de faire entendre votre voix ? Vous aimez écrire – partager votre savoir ? … STOP ! Si votre intérêt est titillé, et le goût de l’aventure flirte avec vos papilles, écrivez-nous. Nous recrutons.
+
+### Newsletter
+
+<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us1.list-manage.com","uuid":"50b491463c3a8828f3e2e9edd","lid":"b2d9e039f6"}) })</script>
 
 ### Contact
 
