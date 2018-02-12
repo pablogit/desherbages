@@ -52,9 +52,11 @@ Vous pouvez utiliser le [flux RSS](http://desherbages.ch/feed.xml) ou vous abonn
 
 [redaction@desherbages.ch](mailto:redaction@desherbages.ch)
 
-### Logo
+### Images
 
-[Lettrine D by Cuculcan - Own work, GFDL](https://commons.wikimedia.org/w/index.php?curid=4948311)
+- Logo : [Lettrine D by Cuculcan - Own work, GFDL](https://commons.wikimedia.org/w/index.php?curid=4948311)
+
+ - Illustration de la newsletter : Rare Book Division, The New York Public Library. (41929). [1914 Grinnell-Des Moines, Iowa mail flight stamped envelope](http://digitalcollections.nypl.org/items/510d47e3-c5b6-a3d9-e040-e00a18064a99)
 
 ### Licence
 
