@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Désherbages
 permalink: /about/
 published: true
 ---
