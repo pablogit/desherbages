@@ -26,3 +26,15 @@ Vous êtes vous-même un professionnel de la documentation ? Vous aimeriez déba
 ### Contact
 
 [redaction@desherbages.ch](mailto:redaction@desherbages.ch)
+
+### Logo
+
+Lettrine D by Cuculcan - Own work, GFDL, https://commons.wikimedia.org/w/index.php?curid=4948311
+
+### Licence
+
+Le contenu de ce blog est mis à disposition selon les termes de la licence Creative Commons Zéro (CC0) sauf indication contraire pour une page ou billet en particulier. Les images d'illustration et le logo gardent leur licence d'origine.
+
+En publiant des commentaires sur ce blog, vous acceptez qu'ils soient publiés également sous la licence CC0.
+
+Version complète de cette licence : https://creativecommons.org/publicdomain/zero/1.0/ 
