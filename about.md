@@ -29,7 +29,7 @@ Vous êtes vous-même un professionnel de la documentation ? Vous aimeriez déba
 
 ### Logo
 
-Lettrine D by Cuculcan - Own work, GFDL, https://commons.wikimedia.org/w/index.php?curid=4948311
+[Lettrine D by Cuculcan - Own work, GFDL](https://commons.wikimedia.org/w/index.php?curid=4948311)
 
 ### Licence
 
@@ -37,4 +37,6 @@ Le contenu de ce blog est mis à disposition selon les termes de la licence Crea
 
 En publiant des commentaires sur ce blog, vous acceptez qu'ils soient publiés également sous la licence CC0.
 
-Version complète de cette licence : https://creativecommons.org/publicdomain/zero/1.0/ 
+
+
+[Version complète de cette licence ici.](https://creativecommons.org/publicdomain/zero/1.0/)
