@@ -4,9 +4,6 @@ title: Désherbages
 permalink: /about/
 published: true
 ---
-
-## Un nouveau Blog en sciences de l'information
-
 ### “Désherbages“ c'est quoi ?
 
 > Un regard professionnel sur des thématiques novatrices. Des propositions détonantes. Des débats thématiques. Des rencontres. Un espace de discussion. Une envie de piquer votre intérêt et valoriser le changement.
