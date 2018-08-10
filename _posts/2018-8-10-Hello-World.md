@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ceci n'est pas un blog
+title: Ceci n'est pas un blog...
 published: true
 ---
 C'est un carnet partagé...
