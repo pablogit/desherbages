@@ -14,3 +14,8 @@ En glissant les doigts sur un verre ou en tapotant sur un clavier au rythme de l
 Parce que tout n'est pas conversation, parfois on a besoin d'espace et de temps pour développer nos idées, nos trouvailles...
 
 Jusqu'au prochain désherbage.
+
+
+![Image de ceci n'est pas...](/images/Ceci_nest_pas_un_Socke.png)
+
+By MoreInput (Eigenherstellung) [Public domain], <a href="https://commons.wikimedia.org/wiki/File:Ceci_nest_pas_un_Socke.png">via Wikimedia Commons</a>
